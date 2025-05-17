@@ -1,0 +1,8 @@
+dash
+flask
+pandas
+plotly
+dash_bootstrap_components
+geopandas
+matplotlib
+seaborn
